@@ -10,6 +10,8 @@ namespace GitProject
         static void Main(string[] args)
         {
             Console.WriteLine("pierwsza linia");
+            Console.WriteLine("pierwsza linia");
+            Console.WriteLine("pierwsza linia");
 
 
         }
