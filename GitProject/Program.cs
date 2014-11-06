@@ -12,6 +12,9 @@ namespace GitProject
             Console.WriteLine("pierwsza linia");
             Console.WriteLine("pierwsza linia");
             Console.WriteLine("pierwsza linia");
+            Console.WriteLine("pierwsza linia");
+            Console.WriteLine("pierwsza linia");
+            Console.WriteLine("pierwsza linia");
 
 
         }
